@@ -9,6 +9,7 @@ interface Props {
 }
 
 export const Row = ({title,movies}: Props) => {
+  
   const rowRef = useRef<HTMLDivElement>(null)
   const [isMoved, setIsMoved] = useState(false)
 

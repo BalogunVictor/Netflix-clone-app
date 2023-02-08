@@ -50,7 +50,7 @@ function Header() {
         <Link href='/account'>
         <img
             src="https://rb.gy/g1pwyx"
-            alt=""
+            alt="/"  
             className="cursor-pointer rounded"
         />
         </Link>
