@@ -77,7 +77,7 @@ npm install npm@latest -g
 ### Installation
 
 # Clone your fork
-$ git clone https://github.com/BalogunVictor/royal-clothing.git
+$ git clone https://github.com/BalogunVictor/Netflix-clone-app.git
 
 $ cd royal-clothing
 
