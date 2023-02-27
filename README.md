@@ -1,27 +1,119 @@
-# Next.js + Tailwind CSS Example
+<br/>
+<p align="center">
+  <a href="https://github.com/Balogun Victor/Royal-clothing">
+    <img src="https://getlogovector.com/wp-content/uploads/2020/10/readme-logo-vector.png"  alt="Logo" width="200" height="200">
+  </a>
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+  <h3 align="center">Netflix clone application built on Nextjs</h3>
 
-## Deploy your own
+  <p align="center">
+    An Awesome project that play a vital role in my journey in Front-End development!
+    <br/>
+    <br/>
+    <a href="https://github.com/Balogun Victor/Netflix-clone-app"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+  </p>
+</p>
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
 
-## How to use
+## Table Of Contents
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
+## About The Project
+I built this application in Next JS and is hosted on Vercel. 
+This app features user authentication with firebase as well as the firestore cloud storage database. 
+This application is pulling movie data from an API the TMDB movie API and displaying different categories. 
+It features horizontal sliding and a featured selection. 
+The Recoil hook is also being implemented for app-wide state management.
+
+This project allowed me to deeply approach the different aspects of a web application developed in Nextjs with typescript
+
+
+## Built With
+
+Nextjs
+
+Typescript
+
+Recoil
+
+Tailwindcss
+
+React Hooks
+
+Firebase
+
+React-player
+
+* []()
+
+## Getting Started
+
+Requirements
+
+Node.js
+Yarn or npm
+
+### Prerequisites
+
+
+* npm
+
+```sh
+npm install npm@latest -g
 ```
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+### Installation
+
+# Clone your fork
+$ git clone https://github.com/BalogunVictor/royal-clothing.git
+
+$ cd royal-clothing
+
+# Create a branch with your feature
+$ git checkout -b your-feature
+
+# Make the commit with your changes
+$ git commit -m 'feat: Your new feature'
+
+# Send the code to your remote branch
+$ git push origin your-feature
 ```
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+## Usage
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+
+
+## Contributing
+
+
+
+### Creating A Pull Request
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## Authors
+
+* **Balogun Victor** - *Front-End developer* - [Balogun Victor](https://github.com/BalogunVictor) - *Built ReadME Template*
+
+## Acknowledgements
+
+* []()
+* []()
+* []()
