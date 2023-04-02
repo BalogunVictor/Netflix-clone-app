@@ -2,7 +2,10 @@
 <p align="center">
   <a href="https://github.com/Balogun Victor/Royal-clothing">
     <img src="https://getlogovector.com/wp-content/uploads/2020/10/readme-logo-vector.png"  alt="Logo" width="200" height="200">
-  </a>
+    
+    
+  </a>![Screenshot (21)](https://user-images.githubusercontent.com/93051955/229335131-e860235e-a7db-4e5c-86b5-0331b2043dc9.png)
+
 
   <h3 align="center">Netflix clone application built on Nextjs</h3>
 
